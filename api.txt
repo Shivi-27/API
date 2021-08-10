@@ -1,0 +1,27 @@
+{
+    "homeMobileCountryCode": 312,
+    "homeMobileNetworkCode": 313,
+    "radioType": "gsm",
+    "carrier": "jio",
+    "considerIp": "true",
+    "cellTowers": [
+        {
+            "cellId": 22,
+            "locationAreaCode": 115,
+            "mobileCountryCode": 312,
+            "mobileNetworkCode": 313,
+            "age": 0,
+            "signalStrength": -40,
+            "timingAdvance": 12
+          }
+    ],
+    "wifiAccessPoints": [
+        {
+        "macAddress": "00:25:9e:ff:jc:wc",
+        "signalStrength": -33,
+        "age": 0,
+        "channel": 12,
+        "signalToNoiseRatio": 0
+        }
+    ]
+  }
